@@ -4,4 +4,6 @@ function main() {
     console.log("Project is running successfully.");
 }
 
-main();
+//main();
+
+//console.log("Test update");
